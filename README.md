@@ -10,10 +10,13 @@ This project fetches live Mexico City bike‑share station data, converts each s
 
 # How it shows the data
 Each station appears as a clickable marker on the map. 
+
 ![alt text](<Image 3-1.png>)
 Clicking a marker opens a popup with the station name and capacity. 
+
 ![alt text](<Image 2-1.png>)
 The map is fully interactive — users can zoom, pan, and toggle layers.
+
 ![alt text](<Image 1-1.png>)
 
 # Why it’s important
